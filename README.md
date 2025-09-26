@@ -2,7 +2,7 @@
 **Technical Skills: Python, SQL, Java, C++**
 
 ## Education
--Artificial Intelligence, MSc, University of Edinburgh [2017]  
+ ![edinburgh-logo]() Artificial Intelligence, MSc, University of Edinburgh [2017]  
 -Computer Science, BSc, University College Dublin [2013]
 
 ## Certifications
