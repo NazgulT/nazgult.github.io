@@ -5,7 +5,7 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="images/edinburgh_logo.jpeg" alt="logo" width="55"></td>
+      <td><img src="images/UOE.png" alt="logo" width="55"></td>
       <td valign="middle"><strong>Artificial Intelligence, MSc, University of Edinburgh [2017]  </strong></td>
     </tr>
   </table>
