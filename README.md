@@ -14,15 +14,11 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="images/cropped-ucd-logo-small.jpg" alt="logo" width="55"></td>
+      <td><img src="images/UCD.png" alt="logo" width="55"></td>
       <td valign="middle"><strong>Computer Science, BSc, University College Dublin [2013]  </strong></td>
     </tr>
   </table>
 </p>
-
-
-<img src="images/edinburgh_logo.jpeg" width="52"> Artificial Intelligence, MSc, University of Edinburgh [2017]  
-<img src="images/cropped-ucd-logo-small.jpg" width="48"> Computer Science, BSc, University College Dublin [2013]
 
 ## Certifications
 IBM Data Science Specialization, Coursera [2025]
