@@ -24,10 +24,13 @@
 IBM Data Science Specialization, Coursera [2025]
 
 ## Work Experience
-**Instructor @ Computer Science Department, Nazarbayev University _[2018 - 2025]_**
-**Research Assistant @ Robotics and Mechatronics Department, Nazarbayev University _[2014 - 2018]_**
-**Robotics Club Instructor @ Nazarbayev Intellectual Schools _[2015-2016]_**
-**Project Engineer Intern @ Microsoft _[2013]_**
+<ul>
+  <li>**Instructor @ Computer Science Department, Nazarbayev University _[2018 - 2025]_**<</li>
+  <li>**Research Assistant @ Robotics and Mechatronics Department, Nazarbayev University _[2014 - 2018]_**</li>
+  <li>**Robotics Club Instructor @ Nazarbayev Intellectual Schools _[2015-2016]_**</li>
+  <li>**Project Engineer Intern @ Microsoft _[2013]_**</li>
+<\ul>
+
 
 ## Relevant Publications
 1. Tazhigaliyeva, Nazgul, et al. "Cyrillic manual alphabet recognition in RGB and RGB-D data for sign
