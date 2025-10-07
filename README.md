@@ -28,9 +28,9 @@ IBM Data Science Specialization, Coursera [2025]
 **Instructor @ Computer Science Department, Nazarbayev University _[2018 - 2025]_**
 <ul>
   <li><b>Delivered engaging instructions:</b>Designed and taught undergraduate courses in computer science including Data Structures and Algorithms, Programming for Scientist and Engineers, Programming Languages, Research Methods using tools like Java, C, C++, Python</li>
-  <li><b>Developed Curriculum and Assessments: Created syllabi, coding assignments and exams aligned with indstry trends.</b></li>
-  <li><b>Mentored and Advised Students: </b> provided one-on-one guidance during office hours to troubleshoot technical and coding issues.</li>
-  <li><b>Contributed to Department Innovation: </b>Served on curriculum committees for Research Methods, hiring committees, and organised LT&T coding workshops to enhance student participation at competitions.</li>
+  <li><b>Developed Curriculum and Assessments:</b> Created syllabi, coding assignments and exams aligned with indstry trends.</li>
+  <li><b>Mentored and Advised Students:</b> Provided one-on-one guidance during office hours to troubleshoot technical and coding issues.</li>
+  <li><b>Contributed to Department Innovation:</b> Served on curriculum committees for Research Methods, hiring committees, and organised LT&T coding workshops to enhance student participation at competitions.</li>
 </ul>
 
 **Research Assistant @ Robotics and Mechatronics Department, Nazarbayev University _[2014 - 2018]_**
