@@ -22,6 +22,12 @@
 
 ## Certifications
 IBM Data Science Specialization, Coursera [2025]
+Blockchain Basics, Coursera [2021]
+R Programming, Coursera [2020]
+
+## Projects
+
+Description of recent projects goes here.
 
 ## Work Experience
 
@@ -35,19 +41,30 @@ IBM Data Science Specialization, Coursera [2025]
 
 **Research Assistant @ Robotics and Mechatronics Department, Nazarbayev University _[2014 - 2018]_**
 <ul>
-  <li> <b> Grok</b> </li>
-  <li>ALso dig up projects done in robotics at NU during your times </li>
+  <li> <b>Conducted Experimental Research in Robotics</b>: assisted in design, implementation and testing of robotic systems, focusing on areas such as robot manipulation, control algorithms and human-robot interaction.  </li>
+  <li> <b>Data Collection and Analysis</b>: gethered and processed experimental data such as sonsor reading, simulation outputs utilizing tools like MATLAB and ROS.</li>
+  <li> <b>Literature Review and Technical Documentation</b>: performed comprehensive reviews of current Machine Learning, Aritificial Intelligence and Robotics literature and contributed to research publications, research and grant proposals.</li>
+  <li> <b>Laboratory Assistance and Student Mentorship</b>: maintained robotics lab equipment and hands-on guidance to undergraduate students in courses like Microcontrollers, Electrical and Electronic Circuits, Robotics and Research Methods.</li>
 </ul>
 
 **Robotics Club Instructor @ Nazarbayev Intellectual Schools _[2015-2016]_**
 
 **Project Engineer Intern @ Microsoft _[2013]_**
 
+## Research Project Contributions
+
+- SLIRS: Sign language interpreting robotic system (contributed in data collection via XBox Kinect, EDA, data wrangling, model training using SVM) [2016]
+- Adaptive Control Architecture for Humanoid Robotics based on Recurrent Neural Networks (contributed in literature review, RNN implementation, paper writing) [2015]
+- Development of an Intelligent Assistive Robot Manipulation System for Improving the Quality of Life of Disabled People (contributes in literature review and methodology research) [2015]
+  
+
 ## Relevant Publications
 1. Tazhigaliyeva, Nazgul, et al. "Cyrillic manual alphabet recognition in RGB and RGB-D data for sign
 language interpreting robotic system (SLIRS)." Robotics and Automation (ICRA), 2017 IEEE
 International Conference on. IEEE, 2017.
-2. Folgheraiter, Michele, Nazgul Tazhigaliyeva, and Aibek Niyetkaliyev. "Adaptive joint trajectory
+2. Tazhigaliyeva, Nazgul, et al. "SLIRS: Sign language interpreting system for human-robot interaction."
+2016 AAAI Fall Symposium Series. 2016.
+3. Folgheraiter, Michele, Nazgul Tazhigaliyeva, and Aibek Niyetkaliyev. "Adaptive joint trajectory
 generator based on a chaotic recurrent neural network." Development and Learning and Epigenetic
 Robotics (ICDL-EpiRob), 2015 Joint IEEE International Conference on. IEEE, 2015.
 
