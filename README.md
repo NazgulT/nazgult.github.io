@@ -27,7 +27,7 @@
 
 ## Projects
 
-Description of recent projects goes here.
+Currently working on projects. More info is coming soon.
 
 ## Work Experience
 
