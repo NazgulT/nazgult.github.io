@@ -27,7 +27,12 @@
 
 ## Projects
 
-Currently working on projects. More info is coming soon.
+- Currently working on: AI-Generated Phishing Email Detection Model #cybersecurity
+- Previously worked on:
+  - [Time-Series Forecast](https://github.com/NazgulT/caribbean-climate-forecasting.git)
+    Time-Series EDA + Forecasting - Predicting Caribbean Climate for 2026 - 2027. The four different popular ML models (SARIMAX, XGBoost, LSTM and Prophet) were trained on Caribbean temperature anomalies and precipitation spanning 1980 - 2025, with Prophet outperforming the rest with MAE = 0.17C. The data was obtained from the NOAA historical dataset.
+  - [Recommender System + Streamlit](https://github.com/NazgulT/movie_recom)
+    The AI-powered movie recommender uses SVD collaborative filtering on the MovieLens 100K dataset to predict personalized movie ratings. It delivers top-N recommendations with confidence scores and generates creative taglines using Hugging Face FLAN-T5 offline. An interactive Plotly network graph visualizes user taste. Built with Streamlit.
 
 ## Work Experience
 
