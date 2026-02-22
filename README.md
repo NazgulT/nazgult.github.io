@@ -56,7 +56,7 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 ## 🧰 Technical Skills
 
 **Languages:** Python (Advanced), SQL, Java, C/C++, R    
-**AI/ML:** LLMs, LangChain, LangGraph, LlamaIndex, Transformers, PyTorch, NLP  
+**AI/ML:** LLMs, LangChain, LangGraph, LlamaIndex, Transformers, PyTorch    
 **Vector Databases and Retrieval:** ChromaDB, FAISS  
 **Backend:** FastAPI, FLask, REST APIs  
 **Frontend prototyping:** Streamlit, Gradio  
