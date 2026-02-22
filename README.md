@@ -89,8 +89,8 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: *(https://www.linkedin.com/in/nazgult/)[https://www.linkedin.com/in/nazgult/]*
-* 🌐 Portfolio: *([https://nazgult.github.io/](https://nazgult.github.io/))*
+* 💼 LinkedIn: *([https://www.linkedin.com/in/nazgult/](https://www.linkedin.com/in/nazgult/))*
+* 🌐 GitHub Profile: *([https://github.com/NazgulT](https://github.com/NazgulT))*
 * 📧 Email: *(nazgul.tazhigaliyeva@gmail.com)*
 
 ---
@@ -116,7 +116,7 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 **Instructor @ Computer Science Department, Nazarbayev University _[2018 - Present]_**
 <ul>
-  <li>Designed and taught <i> Data Structures and Algorithms, Programming for Scientists and Engineers, Programming Languages, Research Methods</i> using C, C++, Python, Java </li> to over 1000 undergraduate students.
+  <li>Designed and taught <i> Data Structures and Algorithms, Programming for Scientists and Engineers, Programming Languages, Research Methods</i> using C, C++, Python, Java  to over 1000 undergraduate students. </li>
   <li>Created syllabi, coding assignments and exams aligned with industry trends.</li>
   <li>Provided one-on-one guidance during office hours to troubleshoot technical and coding issues.</li>
   <li>Served on curriculum committees for Research Methods, hiring committees, and organised LT&T coding workshops to enhance student participation at competitions.</li>
