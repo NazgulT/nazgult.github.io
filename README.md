@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nazgul
 
-### AI Engineer | Data Scientist | ML Engineer 
+### AI Engineer | Data Scientist | Python Developer
 
 I build **AI systems** that transform research ideas into scalable software solutions.
 
