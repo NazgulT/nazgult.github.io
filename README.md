@@ -1,3 +1,101 @@
+# 👋 Hi, I’m Naz
+
+### AI Engineer | Machine Learning Engineer | Python Developer
+
+I build **production-ready AI systems** that transform research ideas into scalable software solutions.
+
+With a background in **Artificial Intelligence and Computer Science**, I specialize in designing, building, and deploying machine learning and LLM-powered applications.
+
+---
+
+## 🚀 What I Do
+
+* 🤖 Build end-to-end ML & AI systems
+* 🧠 Develop LLM & Retrieval-Augmented Generation (RAG) applications
+* ⚙️ Design scalable APIs for AI inference
+* 📊 Apply data science & machine learning to real-world problems
+* 🐳 Containerize and deploy AI services using Docker
+
+---
+
+## ⭐ Featured Projects
+
+### 🔹 Retrieval-Augmented Generation (RAG) System
+
+**Tech:** Python, FastAPI, LangChain, FAISS, OpenAI API
+
+* Built a document-aware AI assistant
+* Implemented semantic search with vector embeddings
+* Exposed inference via REST API
+* Dockerized for deployment
+
+👉 Demonstrates LLM orchestration & production deployment
+
+---
+
+### 🔹 End-to-End Machine Learning Pipeline
+
+**Tech:** Python, Scikit-learn, Pandas, MLflow
+
+* Built a complete ML workflow from data ingestion to evaluation
+* Compared multiple models using cross-validation
+* Implemented experiment tracking & reproducibility
+
+👉 Demonstrates production ML workflow design
+
+---
+
+### 🔹 AI Microservice for Real-Time Predictions
+
+**Tech:** FastAPI, Docker, PostgreSQL
+
+* Designed scalable REST API for model inference
+* Implemented request validation & logging
+* Containerized service for deployment
+
+👉 Demonstrates AI system deployment skills
+
+---
+
+## 🧰 Technical Skills
+
+**Languages:** Python, SQL
+**AI/ML:** Scikit-learn, PyTorch, NLP, LLMs, Embeddings, RAG
+**Backend:** FastAPI, REST APIs
+**Data:** Pandas, NumPy, Feature Engineering
+**MLOps:** Docker, Git, CI/CD fundamentals
+**Tools:** Linux, Jupyter, MLflow
+
+---
+
+## 🎓 Education
+
+**MSc Artificial Intelligence**
+**BSc Computer Science**
+
+---
+
+## 📈 Current Focus
+
+* LLM application engineering
+* Production AI systems
+* Model evaluation & optimization
+* Scalable AI deployment
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 LinkedIn: *(add link)*
+* 🌐 Portfolio: *(add link)*
+* 📧 Email: *(optional)*
+
+---
+
+⭐ *I’m actively seeking opportunities to contribute to AI-driven products and engineering teams.*
+
+
+
 # Computer Scientist |  AI Scientist | Data Scientist
 **Technical Skills: Python, SQL, Java, C++**
 
