@@ -8,17 +8,17 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-* 🤖 Build end-to-end ML & AI systems
-* 🧠 Develop LLM & Retrieval-Augmented Generation (RAG) applications
-* ⚙️ Design scalable APIs for AI inference
-* 📊 Apply data science & machine learning to real-world problems
-* 🐳 Containerize and deploy AI services using Docker
+* Build end-to-end ML & AI systems
+* Develop LLM & Retrieval-Augmented Generation (RAG) applications
+* Design scalable APIs for AI inference
+* Apply data science & machine learning to real-world problems
+* Containerize and deploy AI services using Docker
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
 ### 🔹 LLM-based RAG system for Scientific Document Querying
 
@@ -55,21 +55,20 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 ## 🧰 Technical Skills
 
-**Languages:** Python (Advanced), SQL, Java, C/C++, R
-**ML:** Scikit-learn, PyTorch, Natural Language Processing, Neural Networks
-**AI Frameworks:** LLMs, LangChain, LangGraph, LlamaIndex, Transformers
-**Vector Databases and Retrieval:** ChromaDB, FAISS
-**Backend:** FastAPI, FLask, REST APIs
-**Frontend prototyping:** Streamlit, Gradio
-**Agentic AI:** CrewAI, BeeAI, AutoGen
-**MLOps:** Docker, Git, GitHub Actions, CI/CD fundamentals
-**Tools:** Linux, Jupyter
+**Languages:** Python (Advanced), SQL, Java, C/C++, R    
+**AI/ML:** LLMs, LangChain, LangGraph, LlamaIndex, Transformers, PyTorch, NLP  
+**Vector Databases and Retrieval:** ChromaDB, FAISS  
+**Backend:** FastAPI, FLask, REST APIs  
+**Frontend prototyping:** Streamlit, Gradio  
+**Agentic AI:** CrewAI, BeeAI, AutoGen  
+**MLOps:** Docker, Git, GitHub Actions, CI/CD fundamentals  
+**Tools:** Linux, Jupyter  
 
 ---
 
 ## 🎓 Education
 
-**MSc Artificial Intelligence** - University of Edinburgh, UK (2017)
+**MSc Artificial Intelligence** - University of Edinburgh, UK (2017)  
 **BSc Computer Science** - University College Dublin, Ireland (2013)
 
 ---
