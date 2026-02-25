@@ -20,17 +20,6 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 ## Featured Projects
 
-### 🔹 LLM-based RAG system for Scientific Document Querying
-
-**Tech:** Python, FastAPI, LangChain, Chroma DB, Hugging Face Transformers
-
-* Built a document-aware AI assistant
-* Implemented semantic search with vector embeddings
-* Exposed inference via  FastAPI
-* Dockerized for deployment
-
-
----
 
 ### 🔹 End-to-End Machine Learning Pipeline - Time - Series Forecasting and Model Evaluation
 
@@ -40,9 +29,11 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 * Compared multiple models using cross-validation
 * Implemented experiment tracking & reproducibility
 
+[visit time-series repository](https://github.com/NazgulT/caribbean-climate-forecasting)
+
 ---
 
-### 🔹 YouBot: AI-powered YouTube Video Summarizer and Q&A
+### 🔹 YouBot: AI-powered YouTube Video Summarizer and Q&A 
 
 **Tech:** LangChain, FAISS, Streamlit, HuggingFace Transformers
 
@@ -50,6 +41,20 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 * Implemented request validation & logging
 * Developed an AI chatbot for document querying and a separate pipeline for video transcript analysis
 
+[visit youbot repository](https://github.com/NazgulT/rag-youtube-summarizer)
+
+---
+
+### 🔹 LLM-based RAG system for Scientific Document Querying
+
+**Tech:** Python, FastAPI, LangChain, Chroma DB, Hugging Face Transformers
+
+* Built a document-aware AI assistant
+* Implemented semantic search with vector embeddings
+* Exposed inference via  FastAPI
+* Dockerized for deployment
+
+[visit rag repository](https://github.com/NazgulT/rag-qa-bot)
 
 ---
 
