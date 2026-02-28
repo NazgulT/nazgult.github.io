@@ -105,10 +105,10 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 ## Certifications
 
-* IBM RAG and Agentic AI Specialization, Coursera [2026]
-* IBM Data Science Specialization, Coursera [2025]
-* Blockchain Basics, Coursera [2021]
-* R Programming, Coursera [2021]
+* [IBM RAG and Agentic AI Specialization](https://coursera.org/share/c13d9f188df6687d4481859090381d4b), Coursera [2026]
+* [IBM Data Science Specialization](https://coursera.org/share/1a420574d7ed5b04fd69e73af7afde92), Coursera [2025]
+* [Blockchain Basics](https://coursera.org/share/d4f39cabe4462fc98bfbf4f7108c992f), Coursera [2021]
+* [R Programming](https://coursera.org/share/bc9f5c987d6f991a830d53c35866ea3c), Coursera [2021]
 
 ## Previous Projects
 
