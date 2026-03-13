@@ -20,6 +20,16 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 ## Featured Projects
 
+### 🔹 Production-Ready RAG Assistant
+
+**Tech:** Python, FastAPI, Chroma DB, Hugging Face Transformers, RAGAS, MlFlow
+
+* Built a scalable, modular Retrieval-Augmented Generation (RAG) system with FastAPI for intelligent document Q&A, featuring advanced chunking, hybrid retrieval (semantic + BM25), cross-encoder reranking, and comprehensive evaluation using RAGAS metrics.
+* Included MLflow tracking, ChromaDB storage, a Streamlit dashboard, and support for multiple document formats, processing 10,000+ chunks efficiently with 4 core evaluation metrics for answer quality assessment. 
+
+[visit rag repository](https://github.com/NazgulT/rag-assistant)
+
+---
 
 ### 🔹 End-to-End Machine Learning Pipeline - Time - Series Forecasting and Model Evaluation
 
@@ -43,18 +53,6 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 [visit youbot repository](https://github.com/NazgulT/rag-youtube-summarizer)
 
----
-
-### 🔹 LLM-based RAG system for Scientific Document Querying
-
-**Tech:** Python, FastAPI, LangChain, Chroma DB, Hugging Face Transformers
-
-* Built a document-aware AI assistant
-* Implemented semantic search with vector embeddings
-* Exposed inference via  FastAPI
-* Dockerized for deployment
-
-[visit rag repository](https://github.com/NazgulT/rag-qa-bot)
 
 ---
 
