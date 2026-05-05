@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nazgul
+# 👋 Hi, I’m Naz
 
 ### AI Engineer | Data Scientist | Python Developer
 
@@ -12,15 +12,29 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 * Build end-to-end ML & AI systems
 * Develop LLM & Retrieval-Augmented Generation (RAG) applications
+* Build evaluation and observability pipelines
 * Design scalable APIs for AI inference
 * Apply data science & machine learning to real-world problems
-* Containerize and deploy AI services using Docker
+
+---
+
+## Technical Skills
+
+**Languages:** Python (Advanced), SQL, Java, C/C++, R    
+**AI/ML:** LangChain, LangGraph, LlamaIndex, PyTorch   
+**Agentic AI:** CrewAI, BeeAI, AutoGen   
+**LLM Platforms and APIs:** OpenAI API, Ollama, Hugging Face, AWS Bedrock
+**Vector Databases and Retrieval:** ChromaDB, FAISS, Hugging Face Embeddings  
+**Backend and Deployment:** FastAPI, FLask, REST APIs , GitHub Actions, CI/CD fundamentals
+**Frontend prototyping:** Streamlit, Gradio  
+**Evaluation and Observability:** RAGAS, LangSmith, LangFuse, Logging, MLFlow
+**Tools:** Linux, Jupyter, Cursor, VS Code  
 
 ---
 
 ## Featured Projects
 
-### 🔹 Production-Ready RAG Assistant
+### Production-Ready RAG Assistant
 
 **Tech:** Python, FastAPI, Chroma DB, Hugging Face Transformers, RAGAS, MlFlow
 
@@ -29,9 +43,17 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 [visit rag repository](https://github.com/NazgulT/rag-assistant)
 
----
 
-### 🔹 End-to-End Machine Learning Pipeline - Time - Series Forecasting and Model Evaluation
+### Small Language Model Evaluation Dashboard
+
+**Tech:** Python, FastAPI, Ollama
+
+* Implemented a small language model (SLM) evaluation dashboard that runs entirely offline using **Ollama** as the local inference backend. * Benchmarked multiple small models (2–5B parameters) across three phases: raw inference performance, structured output validation, and temperature variance analysis. Results are written to CSV and exposed via a REST API for a React dashboard.
+* The following SLMs were benchmarked (the list is expanding): phi3-mini, gemma2-2b, qwen2.5-3b, llama3.2-3b
+
+[visit slm repository](https://github.com/NazgulT/slm-evaluation-dashboard/tree/main)
+
+### End-to-End Machine Learning Pipeline - Time - Series Forecasting and Model Evaluation
 
 **Tech:** Python, Scikit-learn, Pandas, XGBoost, LSTM, SARIMAX, Prophet
 
@@ -41,9 +63,8 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 [visit time-series repository](https://github.com/NazgulT/caribbean-climate-forecasting)
 
----
 
-### 🔹 YouBot: AI-powered YouTube Video Summarizer and Q&A 
+### YouBot: AI-powered YouTube Video Summarizer and Q&A 
 
 **Tech:** LangChain, FAISS, Streamlit, HuggingFace Transformers
 
@@ -53,44 +74,29 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 
 [visit youbot repository](https://github.com/NazgulT/rag-youtube-summarizer)
 
+---
+
+## Currently working on
+### Conversational Agent with Memory + Guardrails 
+
+**Tech:** LangChain, LangGraph, LangSmith, Redis, ChromaDB, FastAPI, Pydantic, LangChain Embeddings, OpenAI API
+
+* Implementing a multi-turn customer support agent with short-term (buffer) and long-term (vector database) memory, topic guardrails and fallback handling. Logs every failure to LangSmith. 
+
+### Real-Time Streaming AI Assistant with Source Attribution Framework
+
+* Working on a real-time AI response system using FastAPI and SSE to stream LLM-generated answers token-by-token to users. Building a citation and traceability framework that injects inline source references (document title, page, chunk ID) into generated responses. 
 
 ---
 
-## 🧰 Technical Skills
-
-**Languages:** Python (Advanced), SQL, Java, C/C++, R    
-**AI/ML:** LLMs, LangChain, LangGraph, LlamaIndex, Transformers, PyTorch    
-**Vector Databases and Retrieval:** ChromaDB, FAISS  
-**Backend:** FastAPI, FLask, REST APIs  
-**Frontend prototyping:** Streamlit, Gradio  
-**Agentic AI:** CrewAI, BeeAI, AutoGen  
-**MLOps:** Docker, Git, GitHub Actions, CI/CD fundamentals  
-**Tools:** Linux, Jupyter  
-
----
-
-## 🎓 Education
+## Education
 
 **MSc Artificial Intelligence** - University of Edinburgh, UK (2017)  
 **BSc Computer Science** - University College Dublin, Ireland (2013)
 
 ---
 
-## 📈 Current Focus
-
-* LLM application engineering
-* RAG architectures
-* Agentic AI & Multi-Agent workflows
-* Production AI systems
-* Multimodal AI
-* Model evaluation & optimization
-* Scalable AI deployment
-* Semantic Search
-* Explainable AI
-
----
-
-## 🤝 Let’s Connect
+## Let’s Connect
 
 * 💼 LinkedIn: *([https://www.linkedin.com/in/nazgult/](https://www.linkedin.com/in/nazgult/))*
 * 🌐 GitHub Profile: *([https://github.com/NazgulT](https://github.com/NazgulT))*
