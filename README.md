@@ -25,9 +25,9 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 **Agentic AI:** CrewAI, BeeAI, AutoGen   
 **LLM Platforms and APIs:** OpenAI API, Ollama, Hugging Face, AWS Bedrock  
 **Vector Databases and Retrieval:** ChromaDB, FAISS, Hugging Face Embeddings  
-**Backend and Deployment:** FastAPI, FLask, REST APIs , GitHub Actions, CI/CD fundamentals
+**Backend and Deployment:** FastAPI, FLask, REST APIs , GitHub Actions, CI/CD fundamentals  
 **Frontend prototyping:** Streamlit, Gradio  
-**Evaluation and Observability:** RAGAS, LangSmith, LangFuse, Logging, MLFlow
+**Evaluation and Observability:** RAGAS, LangSmith, LangFuse, Logging, MLFlow  
 **Tools:** Linux, Jupyter, Cursor, VS Code  
 
 ---
