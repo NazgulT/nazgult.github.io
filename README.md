@@ -23,7 +23,7 @@ With a background in **Artificial Intelligence and Computer Science**, I special
 **Languages:** Python (Advanced), SQL, Java, C/C++, R    
 **AI/ML:** LangChain, LangGraph, LlamaIndex, PyTorch   
 **Agentic AI:** CrewAI, BeeAI, AutoGen   
-**LLM Platforms and APIs:** OpenAI API, Ollama, Hugging Face, AWS Bedrock
+**LLM Platforms and APIs:** OpenAI API, Ollama, Hugging Face, AWS Bedrock 
 **Vector Databases and Retrieval:** ChromaDB, FAISS, Hugging Face Embeddings  
 **Backend and Deployment:** FastAPI, FLask, REST APIs , GitHub Actions, CI/CD fundamentals
 **Frontend prototyping:** Streamlit, Gradio  
